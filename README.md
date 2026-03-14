@@ -2,10 +2,14 @@
 
 ### 👨🏻‍💻 Estudante de Engenharia Informática do Porto, Portugal
 
-🧠 Apaixonado por usar a tecnologia para resolver problemas complexos e arquitetar sistemas eficientes, escaláveis e limpos.<br/>
-🛡️ Focado em **Desenvolvimento Web**, **Engenharia de Software** e **Integração de Sistemas**.<br/>
-⚙️ Sempre a explorar novas ferramentas, boas práticas de código (Design Patterns, OOP) e orquestração de infraestruturas.<br/>
-💡 Adoro trabalhar em projetos desafiantes - desde aplicações nativas e bases de dados ao ecossistema React.<br/>
+### 🔭 Atualmente...
+Desenvolvo soluções frontend e backend para aplicações web e diversos outros tipos de software.
+
+### 🌱 A explorar...
+Estou a focar-me em **AI** e **Machine Learning**.
+
+### ⚡ Nos tempos livres...
+Gosto muito de fazer desporto e manter um estilo de vida ativo.
 
 ---
 
