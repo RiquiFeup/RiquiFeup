@@ -19,23 +19,26 @@
 </td>
 <td valign="top">
 <pre>
-henrique@feup ------------------------
-University: ........ FEUP, Porto
-Course: ............. Informatics &amp;
-                       Computer Eng.
-Year: ............... 3rd Year
+henrique@feup ----------------------------------
+University: .............. FEUP, Porto
+Course: .................. Informatics &amp; Computer Eng.
+Year: .................... 3rd Year
 -
-Currently Learning: . Machine Learning
-Focus Areas: ........ Cybersecurity,
-                       Web Development
+Uptime: .................. 1y 2m 22d (on GitHub)
+Currently Learning: ...... Machine Learning
+Focus Areas: ............. Cybersecurity, Web Dev
 -
-Languages.Programming: Java, Python,
-                        JavaScript, C, C++
-Languages.Web: ...... HTML, CSS, TypeScript
-Languages.Real: ..... Portuguese, English
+Languages.Programming: ... Java, Python, JavaScript, C, C++
+Languages.Web: ........... HTML, CSS, TypeScript
+Languages.Real: .......... Portuguese, English
 -
-Interests: .......... Sports, Fitness,
-                       Tech, Security
+Interests: ............... Sports, Fitness, Tech, Security
+Contact ----------------------------------------
+Email: ................... sobradohenrique@gmail.com
+LinkedIn: ................ henrique-pereira-95003a305
+GitHub Stats -----------------------------------
+Repos: ................... 4  |  Stars: 0
+Followers: ............... 2  |  Following: 3
 </pre>
 </td>
 </tr>
