@@ -1,27 +1,79 @@
-# 👋 Olá, eu sou o Henrique Pereira!
+<div align="center">
 
-### 👨🏻‍💻 Estudante de Engenharia Informática do Porto, Portugal
+# Hi, I'm Henrique 👋
 
-### 🔭 Atualmente...
-Desenvolvo soluções frontend e backend para aplicações web e diversos outros tipos de software.
+### Computer Engineering Student @ FEUP (University of Porto)
 
-### 🌱 A explorar...
-Estou a focar-me em **AI** e **Machine Learning**.
-
-### ⚡ Nos tempos livres...
-Gosto muito de fazer desporto e manter um estilo de vida ativo.
+</div>
 
 ---
 
-### 🌐 Onde me encontrar:
+<table>
+<tr>
+<td valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/ascii-light.svg">
+  <img alt="ascii art portrait" src="assets/ascii-light.svg">
+</picture>
+</td>
+<td valign="top">
+<pre>
+henrique@feup ------------------------
+University: ........ FEUP, Porto
+Course: ............. Informatics &amp;
+                       Computer Eng.
+Year: ............... 3rd Year
+-
+Currently Learning: . Machine Learning
+Focus Areas: ........ Cybersecurity,
+                       Web Development
+-
+Languages.Programming: Java, Python,
+                        JavaScript, C, C++
+Languages.Web: ...... HTML, CSS, TypeScript
+Languages.Real: ..... Portuguese, English
+-
+Interests: .......... Sports, Fitness,
+                       Tech, Security
+-
+Contact ----------------------------
+Email: .............. sobradohenrique@gmail.com
+LinkedIn: ........... henrique-pereira-95003a305
+</pre>
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 About Me
+
+I'm a 3rd-year Computer/Informatics Engineering student at **FEUP** (Faculdade de Engenharia da Universidade do Porto), with a wide range of interests across the tech world - from building full-stack web apps to understanding how systems can be broken (and secured).
+
+## 🔍 Currently Exploring
+
+- 🤖 **Machine Learning** - working through the fundamentals and building small projects
+- 🔐 **Cybersecurity** - learning how systems break so I can help build ones that don't
+- 💻 Frontend & backend development for web apps and other software
+
+## 🏃 Outside of Code
+
+I like to stay active - sports and a healthy lifestyle keep me balanced alongside my studies.
+
+---
+
+## 📫 Where to Find Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-pereira-95003a305)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sobradohenrique@gmail.com)
 
 ---
 
-### 💻 A Minha Tech Stack
+## 🛠️ Tech Stack
 
-**🌐 Frontend & Design:**
+**Frontend & Design**
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -33,7 +85,8 @@ Gosto muito de fazer desporto e manter um estilo de vida ativo.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-**⚙️ Backend, Bases de Dados & Data:**
+**Backend, Databases & Data**
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,7 +98,13 @@ Gosto muito de fazer desporto e manter um estilo de vida ativo.
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-**🛠 Infraestrutura, DevOps & Ferramentas:**
+**Currently Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Infrastructure, DevOps & Tools**
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
