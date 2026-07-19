@@ -36,10 +36,6 @@ Languages.Real: ..... Portuguese, English
 -
 Interests: .......... Sports, Fitness,
                        Tech, Security
--
-Contact ----------------------------
-Email: .............. sobradohenrique@gmail.com
-LinkedIn: ........... henrique-pereira-95003a305
 </pre>
 </td>
 </tr>
